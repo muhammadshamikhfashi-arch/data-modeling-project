@@ -1,6 +1,6 @@
-
-
-
+> [!NOTE]
+> **How to View the Data Model:**  
+> This project focuses on back-end data architecture, Star Schema design, and DAX modeling. When opening the `.pbix` file in Power BI Desktop, please switch to the **Model View** (left sidebar icon 🗂️) to inspect the table relationships and schema.
 
 # Enterprise Data Modeling & Analytics: Star Schema Transformation
 
